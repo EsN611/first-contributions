@@ -58,7 +58,7 @@
 - [MrNNP](https://github.com/MrNNP)
 - [sweinstock] (https://github.com/sweinstock)
 - [Avinash Kumar](https://github.com/Avii3301)
-- [Estella Nguyen] (https://github.com/EsN611)
+- [Estella Nguyen](https://github.com/EsN611)
 - [Hayden Sprinkle](https://github.com/haydensprinkle)
 - [Jayden Tweedie](https://github.com/jgregorytweedie)
 - [caharalamm jeje](https://github.com/caharalamm)
